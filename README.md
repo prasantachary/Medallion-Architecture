@@ -14,6 +14,7 @@
 <img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/080b4db5-1117-4edd-a5f5-c2e2aaff0563" />
 -	Configure Additonal settings. Select Sample, so that it will allow you to use the sample dataset.
 <img width="679" height="573" alt="image" src="https://github.com/user-attachments/assets/1c57b4ad-6346-4d7e-807b-7b505758a998" />
+
 -	Click Review + Create to deploy.
 
 # 3. Create Databricks Community Edition
