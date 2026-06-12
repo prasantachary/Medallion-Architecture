@@ -29,3 +29,11 @@ After executing the scripts provided in jupyter source file, you will be able to
 
  <img width="940" height="457" alt="image" src="https://github.com/user-attachments/assets/5569f2c6-6c98-47aa-895c-484eb1017739" />
 
+How to connect the JDBC_URL to Jupyter notebook in DataBrick :- 
+jdbc_url = "Put this your server URL"
+connection_props = {
+    "user": "Your user_id",
+    "password": "mypassword",
+    "driver": "com.mysql.cj.jdbc.Driver"
+}
+
